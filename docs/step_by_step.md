@@ -9,8 +9,8 @@
 
 # INSTALL POETRY
 [https://python-poetry.org/docs/#installing-with-the-official-installer]
-EXAMPLE WITH PIP: pip install poetry
-CHECK INSTALLATION: poetry --version
+- EXAMPLE WITH PIP: pip install poetry
+- CHECK INSTALLATION: poetry --version
 1. BASIC COMMANDS
 - poetry init - Initializes a project.
 - poetry add <library> - Adds library.
